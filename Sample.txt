@@ -1,0 +1,7 @@
+GitHub Setup Activity
+
+Name: Logeshwaran 
+Department: (AIDS)
+Year: (1)
+
+This is my first repository created for the GitHub setup activity.
